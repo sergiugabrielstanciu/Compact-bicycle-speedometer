@@ -1,3 +1,6 @@
+/* !!!! The current code is an old ATtiny code that I will modify for ATmega328p in the coming months !!!! */
+
+
 #include "SSD1306_minimal.h"
 //#include <EEPROM.h>
 #include <avr/sleep.h>
